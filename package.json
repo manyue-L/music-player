@@ -15,7 +15,8 @@
     "lucide-react": "^0.556.0",
     "react-dom": "^19.2.1",
     "three": "^0.181.2",
-    "@react-three/fiber": "^9.4.2"
+    "@react-three/fiber": "^9.4.2",
+    "@supabase/supabase-js": "^2.48.1"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
